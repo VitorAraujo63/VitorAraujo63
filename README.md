@@ -11,13 +11,13 @@
 
 ##### Tecnologias que estou estudando:
 
-[![tecnologias](https://skillicons.dev/icons?i=supabase,nodejs,js,react,python,html,css,figma&perline=3)](https://www.linkedin.com/in/vitor-araujo-5a4910227/)
+[![tecnologias](https://skillicons.dev/icons?i=supabase,nodejs,js,laravel,php,python,html,css,figma&perline=3)](https://www.linkedin.com/in/vitor-araujo-5a4910227/)
 
 <hr>
 
 ##### Tecnologias a serem estudadas:
 
-[![tecnologias](https://skillicons.dev/icons?i=vue,typescript,laravel,php&perline=3)](https://www.linkedin.com/in/vitor-araujo-5a4910227/)
+[![tecnologias](https://skillicons.dev/icons?i=vue,typescript,react,nextjs&perline=3)](https://www.linkedin.com/in/vitor-araujo-5a4910227/)
 
 <hr>
 
