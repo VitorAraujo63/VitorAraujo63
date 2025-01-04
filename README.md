@@ -1,7 +1,5 @@
 
-## Opa tudo certo ?! Seja bem-vindo...
-
-#### Onde me encontrar:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=F7F7F7&background=FFFFFF00&repeat=false&width=435&lines=Opa+tudo+certo+%3F!+Seja+bem-vindo...;Onde+me+encontrar+%F0%9F%91%87;Opa+tudo+certo+%3F!+Seja+bem-vindo...;Onde+me+encontrar+%F0%9F%91%87)](https://git.io/typing-svg)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-araujo-5a4910227/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitin.araujo)
