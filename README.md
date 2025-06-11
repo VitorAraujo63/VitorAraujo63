@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&width=600&lines=Olá%2C+me+chamo+Vitor+Araujo!;Tenho+19+anos+e+curso+Ciência+da+Computação+na+UNIMAR.;Atualmente+me+aprofundando+em+Laravel+e+Vue.js.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&width=600&lines=Olá%2C+me+chamo+Vitor+Araujo!;)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre mim
 
