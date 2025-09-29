@@ -2,10 +2,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou o **Vitor Araujo**, desenvolvedor em formação com 19 anos e estudante de **Ciência da Computação na UNIMAR**.  
-Tenho paixão por resolver problemas reais através da tecnologia e estou sempre buscando evoluir como programador.
+Sou **Vitor Araujo**, Desenvolvedor Back-end e estudante de Ciência da Computação pela UNIMAR. Minha paixão é construir a arquitetura e a lógica que sustentam aplicações, transformando ideias complexas em sistemas funcionais e eficientes.
 
-Atualmente estou me aprofundando em **Laravel** e **Vue.js**, desenvolvendo aplicações com foco em **soluções simples e eficazes** que possam impactar positivamente a vida das pessoas.
+Meu foco principal está no desenvolvimento de APIs robustas e escaláveis. Atualmente, estou aprofundando meus conhecimentos em Laravel e Node.js para criar soluções de alta performance
 
 ---
 
@@ -19,7 +18,7 @@ Atualmente estou me aprofundando em **Laravel** e **Vue.js**, desenvolvendo apli
 
 ## 🛠️ Tecnologias que estudo atualmente:
 
-[![Tecnologias](https://skillicons.dev/icons?i=laravel,vue,docker,mysql,nodejs,python,supabase&perline=4)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=laravel,docker,mysql,nodejs,supabase,postgres&perline=3)](https://skillicons.dev)
 
 ---
 
@@ -35,9 +34,8 @@ Atualmente estou me aprofundando em **Laravel** e **Vue.js**, desenvolvendo apli
 ## 💬 Um pouco mais sobre mim
 
 - 🧑‍🎓 Cursando Ciência da Computação na **UNIMAR**  
-- ⚙️ Desenvolvedor focado em **Laravel + Vue.js**
 - 🎯 Criando soluções que **ajudam pessoas de forma simples e prática**
-- 📈 Buscando oportunidades para **colaborar e evoluir** na área de tecnologia
+- 📈 Buscando oportunidades para resolver desafios complexos e colaborar em projetos inovadores na área de Back-end.
 
 ---
 
