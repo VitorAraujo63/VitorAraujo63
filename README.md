@@ -18,16 +18,7 @@ Meu foco principal está no desenvolvimento de APIs robustas e escaláveis. Atua
 
 ## 🛠️ Tecnologias que estudo atualmente:
 
-[![Tecnologias](https://skillicons.dev/icons?i=laravel,docker,mysql,nodejs,supabase,postgres&perline=3)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorAraujo63&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAraujo63&layout=compact&theme=dark" />
-</div>
+[![Tecnologias](https://skillicons.dev/icons?i=docker,laravel,mysql,nodejs,typescript,js&perline=3)](https://skillicons.dev)
 
 ---
 
