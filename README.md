@@ -4,21 +4,21 @@
 
 Sou **Vitor Araujo**, Desenvolvedor Back-end e estudante de Ciência da Computação pela UNIMAR. Minha paixão é construir a arquitetura e a lógica que sustentam aplicações, transformando ideias complexas em sistemas funcionais e eficientes.
 
-Meu foco principal está no desenvolvimento de APIs robustas e escaláveis. Atualmente, estou aprofundando meus conhecimentos em Laravel e Node.js para criar soluções de alta performance
+Meu foco principal está no desenvolvimento de APIs robustas e escaláveis. Atualmente, estou aprofundando meus conhecimentos em Laravel para criar soluções de alta performance.
 
 ---
 
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-araujo-5a4910227/)
-[![Site](https://img.shields.io/badge/-vitoraraujo.com-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://vitoraraujo.com)
+[![Site](https://img.shields.io/badge/-me.vitoraraujo.cloud-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://me.vitoraraujo.cloud)
 [![Email](https://img.shields.io/badge/-contato@vitoraraujo.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@vitoraraujo.com)
 
 ---
 
-## 🛠️ Tecnologias que estudo atualmente:
+## 🛠️ Tecnologias que utilizo:
 
-[![Tecnologias](https://skillicons.dev/icons?i=docker,laravel,mysql,nodejs,typescript,js&perline=3)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=docker,laravel,mysql,aws,nginx,bash,ubuntu,apple,windows&perline=3)](https://skillicons.dev)
 
 ---
 
