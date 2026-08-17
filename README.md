@@ -32,14 +32,14 @@ Sou **Vitor Araujo**, estudante de Ciência da Computação na **UNIMAR** e dese
 
 <div align="center">
 
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=VitorAraujo63&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VitorAraujo63&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=VitorAraujo63&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs?username=VitorAraujo63&layout=compact&hide_title=true&langs_count=6&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=VitorAraujo63&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=VitorAraujo63&theme=tokyonight&locale=pt_BR&timezone=-3&mode=weekly" />
 
 </div>
 
